@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: #dcd9d986;
+    background-color: #ffffff;
 }
 
 
@@ -103,7 +103,7 @@ h2 {
 }
 
 #galeria {
-    background-color: #dcd9d986;
+    background-color: #fff6f6;
 
 }
 
@@ -132,7 +132,7 @@ h2 {
 }
 
 .formulario button {
-    background-color: #dcd9d986;
+    background-color: #fffdfd;
     border: none;
     font-weight: bold;
 }
